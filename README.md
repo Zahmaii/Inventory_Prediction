@@ -30,7 +30,7 @@
 - Open your terminal and navigate to the project directory.
 - Run pip install -r requirements.txt to install required packages.
 - Run the App on Streamlit:
-- After installing dependencies, start the Streamlit app by running streamlit run app.py.
+- After installing dependencies, start the Streamlit app by running streamlit run izi.py.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📜 License
 

@@ -1,25 +1,11 @@
 # Upgrade pip and setuptools to avoid compatibility issues
-pip>=24.3.1
-setuptools>=65.0.0
-
-# Install pandas with a compatible version for Streamlit 1.20.0
-pandas==1.5.3
-
-# Install matplotlib for plotting
-matplotlib==3.7.1
-
-# Install Streamlit with a compatible version of pandas
-streamlit>=1.24.0
-
-# Install scikit-learn for machine learning
-scikit-learn==1.3.0
-
-# Install Streamlit option menu
-streamlit-option-menu==0.3.0
-
-# Use a compatible version of tensorflow-cpu, if needed, or remove if not required
-tensorflow-cpu==2.8.0  # Remove this line if TensorFlow is not essential
-
+setuptools
+pandas
+matplotlib
+streamlit
+scikit-learn
+streamlit-option-menu
+tensorflow-cpu
 
 # Download the Program Requirements File by
 # Copy and Paste the Text Below to your Environment Terminal
